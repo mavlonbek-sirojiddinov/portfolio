@@ -1045,7 +1045,7 @@ ul{
   padding: 13px;
   position: relative;
   border-radius: 10px;
-  background-image: url('../images/botanik.png');
+  background-image: url('../images/my-team2.png');
   background-size: cover;
   position: relative;
   cursor: pointer;
@@ -1054,30 +1054,37 @@ ul{
   /* filter: brightness(0.9); */
 
 }
-.works__item--five{
-  background-image: url('../images/food.png');
+.works__item--five{ 
+  background-position: center;
+  background-image: url('../images/matras.png');
 }
 .works__item--second{
-  background-image: url('../images/mac-bro.jpg');
+  background-position: center;
+  background-image: url('../images/jenshen.png');
 }
 .work__item--third{
-  background-image: url('../images/insta.jpg');
+  background-image: url('../images/soat-2.png');
+  background-position: center;
 }
 .works__item-fourth{
-  background-image: url('../images/pizza.jpg');
+  background-image: url('../images/alpine-2.png');
   background-position: center;
 }
 .works__item-fifth{
-  background-image: url('../images/freshio.jpg');
+  background-position: center;
+  background-image: url('../images/faylo-dark.png');
 }
 .works__item-six{
-  background-image: url('../images/movie.jpg');
+  background-position: center;
+  background-image: url('../images/my-name2.png');
 }
 .works__item-sevn{
-  background-image: url('../images/text.png');
+  background-position: center;
+  background-image: url('../images/stirka.png');
 }
 .works__item-ait{
-  background-image: url('../images/port.png');
+  background-position: center;
+  background-image: url('../images/pizza.png');
 }
 .work__img{
   object-fit: cover;
